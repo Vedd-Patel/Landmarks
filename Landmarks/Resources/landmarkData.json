@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "He takes hold of beginnings, pure like a cat: a living harmony nourished by varied poisons; in openness he leans forward, not fitting in, adorned by seasoning and flowing images. He even grasps ancient union in free time, dwelling in a softened dwelling among children’s care. Through arrows of ease, he blends gentle comforts without suffocating; boundaries of order are shaken where structure meets release; bound by care, births of power arise, carried into laughable grandeur by the nurtured price of connection.Beginnings of growth arise in settled culture: conquered by the precarious, he is bound through towns and ergonomics; a mass of moments live strangely in measured doorways of hallowed poison; he arranges beauty through positions of shared speech, layering sharp pains into adorned growth. Entry in pain elevates the awkward in molded ornament, binding felt fodder in plain forms; hardness is conquered by the fall of softened shells.Through courses of habit and sharpened ease, passages of survival entwine among worn-out supports; I myself lean on noble order, holding by burdens tied to heritage. His being is drawn to peaceful ordination, and beauty is born in judged duties between the impulses of growth and pure sharpness.Intersecting through built-up time, an anchored dwelling shapes future movement; gentle cells lie within pure surfaces, shaped by life’s soft bounds. In steady preservation, care is held, though forwardness brings restrictions; not by force but by first-born sharpened pathways that name born kindred.",
+        "imageName": "umbagog"
+    }
+]
