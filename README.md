@@ -57,7 +57,7 @@ https://drive.google.com/file/d/1PmKNdzbvcd4FrR5pcaEIGXl3QIz3Nqf3/view?usp=shari
 
 ---
 
-To run this project:
+## To run this project:
 
 1. Clone the repository  
 2. Open `Landmarks.xcodeproj` in Xcode  
