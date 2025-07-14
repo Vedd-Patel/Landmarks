@@ -55,6 +55,15 @@ https://drive.google.com/file/d/1PmKNdzbvcd4FrR5pcaEIGXl3QIz3Nqf3/view?usp=shari
 - `ModelData.swift` – Loads and parses landmark JSON  
 - `Assets.xcassets` – Landmark images and icons  
 
+---
+
+To run this project:
+
+1. Clone the repository  
+2. Open `Landmarks.xcodeproj` in Xcode  
+3. Build and run the app using the iOS simulator or a physical device  
+
+✅ Requires Xcode 15+ and iOS 17 SDK or later
 
 ---
 
