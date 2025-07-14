@@ -1,6 +1,6 @@
 # 🗺️ Landmarks App
 
-A clean and beginner-friendly iOS app built with **SwiftUI**, showcasing a list of famous landmarks with map views, descriptions, and favorite toggling. Inspired by Apple's official SwiftUI tutorial.
+A clean and beginner-friendly iOS app built with **SwiftUI**, showcasing a list of famous landmarks with map views, descriptions, and favorite toggling. 
 
 ---
 
@@ -55,10 +55,6 @@ https://drive.google.com/file/d/1PmKNdzbvcd4FrR5pcaEIGXl3QIz3Nqf3/view?usp=shari
 - `ModelData.swift` – Loads and parses landmark JSON  
 - `Assets.xcassets` – Landmark images and icons  
 
----
-
-## 📚 Acknowledgements
-This app was built with the help of Apple’s official SwiftUI tutorial. The project structure and functionality are based on tutorial guidance, with personal modifications and enhancements.
 
 ---
 
