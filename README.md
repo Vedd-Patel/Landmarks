@@ -35,7 +35,7 @@ This app displays a list of popular landmarks. Users can view detailed informati
 
 ## 🎥 Demo Video  
 
-https://drive.google.com/file/d/1PmKNdzbvcd4FrR5pcaEIGXl3QIz3Nqf3/view?usp=sharing
+https://youtube.com/shorts/ljp4FdL7QFs?feature=share
 
 ---
 
