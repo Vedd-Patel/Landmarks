@@ -5,7 +5,7 @@ A clean and beginner-friendly iOS app built with **SwiftUI**, showcasing a list 
 ---
 
 ## 🏞️ Landmarks Explorer  
-This app displays a list of popular landmarks. Users can view detailed information, maps, and mark their favorite landmarks. Built with SwiftUI to demonstrate modern declarative UI design.
+This app displays a list of popular landmarks. Users can view detailed information, maps, and mark their favorite landmarks. Built with SwiftUI to demonstrate modern declarative UI designs.
 
 ---
 
