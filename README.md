@@ -68,7 +68,7 @@ https://youtube.com/shorts/ljp4FdL7QFs?feature=share
 ---
 
 ## 🧾 License
--MIT License
+- MIT License
 
 ---
 
